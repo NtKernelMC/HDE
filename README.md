@@ -1,8 +1,8 @@
 # Introduction 
-~ HDE - Hooks Detection Engine
-~ Task: Prevent WIN API & NT API hooks
-~ Copyright: NtKernelMC
-~ Date: 29.05.2019
+HDE - Hooks Detection Engine<br/>
+Task: Prevent WIN API & NT API hooks<br/>
+Copyright: NtKernelMC<br/>
+Date: 29.05.2019
 
 # FEATURES [EN]
 	> Detection of inline hooks for many types (jmp, jmp ptr, call, call ptr)
