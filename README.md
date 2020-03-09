@@ -1,7 +1,7 @@
 # Introduction 
-HDE - Hooks Detection Engine
-Task: Prevent WIN API & NT API hooks
-Copyright: NtKernelMC
+HDE - Hooks Detection Engine<br/>
+Task: Prevent WIN API & NT API hooks<br/>
+Copyright: NtKernelMC<br/>
 Date: 29.05.2019
 
 # FEATURES [EN]
@@ -22,12 +22,7 @@ Date: 29.05.2019
 	> Поддержка для х86-х64 архитектур и операционных систем семейства Windows начиная с Vista и выше
 
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Build x86 or x64 static library for your future project.
 
 # Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Anyone can make this project better, do pull request with your designs!
