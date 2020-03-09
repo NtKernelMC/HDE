@@ -1,7 +1,7 @@
 # Introduction 
-HDE - Hooks Detection Engine
-Task: Prevent WIN API & NT API hooks
-Copyright: NtKernelMC
+HDE - Hooks Detection Engine\n
+Task: Prevent WIN API & NT API hooks\n
+Copyright: NtKernelMC\n
 Date: 29.05.2019
 
 # FEATURES [EN]
