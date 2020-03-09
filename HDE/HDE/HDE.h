@@ -1,7 +1,7 @@
 /*
 	HDE - Hooks Detection Engine
 	Task: Prevent WIN API & NT API hooks
-	Copyright: LiveGuard Software Ltd.
+	Copyright: NtKernelMC
 	Date: 29.05.2019
 
 	[ENG] FEATURES =========================
