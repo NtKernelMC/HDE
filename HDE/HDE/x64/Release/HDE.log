@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: устранение рисков Spectre включено, однако библиотеки Spectre с устраненными рисками не найдены. Убедитесь, что рабочая нагрузка Visual Studio включает библиотеки Spectre с устраненными рисками. Дополнительные сведения см. в статье https://aka.ms/Ofhn4c.
+  HDE.cpp
+     Создается библиотека C:\Users\Czynnik.WSZYSTKO-21\source\repos\LiveGuard-AntiHack-Module-AntiHook\HDE\x64\Release\HDE64.lib и объект C:\Users\Czynnik.WSZYSTKO-21\source\repos\LiveGuard-AntiHack-Module-AntiHook\HDE\x64\Release\HDE64.exp
+  Создание кода
+  6 of 768 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  HDE.vcxproj -> C:\Users\Czynnik.WSZYSTKO-21\source\repos\LiveGuard-AntiHack-Module-AntiHook\HDE\x64\Release\HDE64.dll
